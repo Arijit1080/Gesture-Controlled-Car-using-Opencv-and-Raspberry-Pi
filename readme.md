@@ -59,9 +59,15 @@ To control the car, make one of the five hand gestures and hold it for a few sec
 
 To stop the program, press ```s``` on your keyboard. The program will stop capturing the video feed, clean up the GPIO settings, and exit.
 
+## Circuit Diagram
+
+![dc_motor_devre_bb](https://github.com/Mochoye/Gesture-Controlled-Car-using-Opencv-and-Raspberry-Pi/assets/95351969/63fa1cd5-5768-406c-9910-c7b935e8fbb6)
+
+
 ## Demo
 
 Demo
 Here is a video demonstration of how this project works:
 
 [![Hand Gesture Controlled Car Demo]]
+
