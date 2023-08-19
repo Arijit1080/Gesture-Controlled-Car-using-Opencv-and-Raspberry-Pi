@@ -61,7 +61,7 @@ To stop the program, press ```s``` on your keyboard. The program will stop captu
 
 ## Circuit Diagram
 
-![dc_motor_devre_bb](https://github.com/Mochoye/Gesture-Controlled-Car-using-Opencv-and-Raspberry-Pi/assets/95351969/2a3acc9d-78d8-46d0-bd65-09cdb22bb6aa)
+![dc_motor_devre_bb](https://github.com/Arijit1080/Gesture-Controlled-Car-using-Opencv-and-Raspberry-Pi/blob/main/RC_car_circuit.png)
 
 
 
