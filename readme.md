@@ -37,6 +37,7 @@ pip install mediapipe
 pip install RPi.GPIO
 pip uninstall protobuf
 pip install protobuf==3.20
+pip install gTTs
 ``````
 
 To clone this repository, run the following command in your terminal:
